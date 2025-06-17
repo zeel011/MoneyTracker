@@ -44,17 +44,27 @@ A modern, feature-rich expense tracking Flutter application that helps you manag
 
 ## 📱 Screenshots
 
-### Home Screen
-![Home Screen](images/5.jpg)
+<h3>Home Screen:</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f7f0ea3-f4ca-4101-b269-4637f911f6bd" alt="Home Screen" width="250"/>
+</p>
 
-### Add Transaction
-![Add Transaction](images/4.jpg)
+### Add Transaction:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f4cbd0e-308a-4a12-b6b2-a6cf7a49a05c" alt="Add Transaction" width="250"/>
+</p>
 
-### Budget Management
-![Budget Management](images/9.jpg)
+### Budget Management:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfcb8e2d-0b5f-4391-9505-cfd69e197161" alt="Budget Management" width="250"/>
+</p>
 
-### Financial Reports
-![Financial Reports](images/10.jpg)
+### Financial Reports:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ba5d0c0-a84f-428b-aca3-e4e993376fad" alt="Financial Reports" width="250"/>
+</p>
+
+You can find more images here: [images](https://github.com/zeel011/MoneyTracker/tree/88efcada10119ecbd9d5c44b3b78f5e517a68708/images)
 
 ## 🚀 Getting Started
 
@@ -195,8 +205,3 @@ FIREBASE_PROJECT_ID=your_project_id
 - ✅ Desktop (Windows, macOS, Linux)
 
 ---
-
-<div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
-  <p>⭐ Star this repository if you found it helpful!</p>
-</div>
